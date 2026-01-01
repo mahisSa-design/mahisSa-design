@@ -5,9 +5,6 @@
 
 
 
-## 💬 Daily Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
@@ -38,7 +35,8 @@
 
 
 
+## 💬 Daily Dev Quote
 
-## 💬 Inspiration
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
