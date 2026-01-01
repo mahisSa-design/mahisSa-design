@@ -30,13 +30,6 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=mahsasa71&theme=onestar&no-frame=true)
-
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=mahsasa71&theme=algolia&no-frame=true)
 
 
 
