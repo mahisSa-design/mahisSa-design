@@ -48,9 +48,6 @@ Building modern web interfaces and learning every day.
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+%7C+React+%7C+Next.js;Lifelong+Learner;Open+to+collaboration)
 
 ## 🛠 Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,git,python)
-
-![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,prisma,postgres,vercel,docker)
 
 ![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,python,git,ts,js,nodejs,express,postgres,docker,vercel)
 
