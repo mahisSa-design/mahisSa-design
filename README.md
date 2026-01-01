@@ -1,7 +1,4 @@
-حتماً — فقط **همون مورد تکراری و خراب** رو جمع کردم، هیچ چیز دیگری رو تغییر ندادم.
-این **نسخه‌ی نهایی فایل README** برای کپی/پیست 👇
 
-```md
 <p align="left">
   <img src="https://mirasholding.com/wp-content/uploads/2025/03/cover.jpg" />
 </p>
