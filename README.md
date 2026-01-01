@@ -52,7 +52,7 @@ Building modern web interfaces and learning every day.
 
 ![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,prisma,postgres,vercel,docker)
 
-![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,docker,vercel)
+![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,python,git,ts,js,nodejs,express,postgres,docker,vercel)
 
 
 
