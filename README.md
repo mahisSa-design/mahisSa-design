@@ -10,10 +10,9 @@
     <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&weight=600&color=000000&center=true&vCenter=true&width=1200&height=80&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at+Mirath+Holding" />
   </picture>
 </p>
- 🌐 Socials :
-<h3 align="left">Connect with us:</h3>
+
 <p align="left">
-## 🌐 Socials : <h3 align="left">Connect with us:</h3> <p align="left">
+🌐 Socials : <h3 align="left">Connect with us:</h3> <p align="left">
 
 <a href="https://instagram.com/mirasdevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirasdevs" height="30" width="40" /></a>
 </p>
