@@ -25,6 +25,7 @@
 
 ## 📊 GitHub Stats :
 
+## 💬 Daily Dev Quote
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsasa71&layout=compact&theme=holi)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
