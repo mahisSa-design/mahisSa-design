@@ -29,3 +29,37 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=mahsasa71&theme=onestar&no-frame=true)
+
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=mahsasa71&theme=algolia&no-frame=true)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;Frontend+%7C+React+%7C+Next.js;Always+learning+new+things)
+
+
+![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,python,git)
+
+
+
+
+## ✨ About Me
+Building modern web interfaces and learning every day.
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+%7C+React+%7C+Next.js;Lifelong+Learner;Open+to+collaboration)
+
+## 🛠 Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,git,python)
+
+## 🐍 Contributions
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+## 🏆 Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=mahsasa71&theme=algolia&no-frame=true)
+
+## 💬 Inspiration
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
