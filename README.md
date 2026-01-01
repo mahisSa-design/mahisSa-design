@@ -23,16 +23,7 @@
 
 
 ## ✨ About Us:
-<p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?size=22&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at+Mirath+Holding" />
-    <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&weight=600&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at+Mirath+Holding" />
-    <!-- Fallback -->
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&weight=600&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at+Mirath+Holding" />
-  </picture>
-</p>
+
 
 <p align="center">
   <picture>
@@ -43,19 +34,6 @@
 </p>
 
 
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&weight=600&color=FFFFFF&center=true&vCenter=true&width=1200&height=80&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&weight=600&color=000000&center=true&vCenter=true&width=1200&height=80&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at" />
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&weight=600&color=000000&center=true&vCenter=true&width=1200&height=80&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at" />
-  </picture>
-
-  <p style="margin-top:-10px;font-size:32px;font-weight:700;color:#D4AF37;letter-spacing:1px;">
-    Mirath Holding
-  </p>
-
-</div>
 
 
 
