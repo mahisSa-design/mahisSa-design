@@ -1,5 +1,7 @@
 <img width="1584" height="396" alt="Image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhlY3Y1ejB4MGptbnE4cHRxYm0yMWhtcnI3dHVjZnUzOTRxazIwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsasa71&label=Profile%20views&color=0e75b6&style=flat" alt="mahsasa71" /> </p>
+<p align="left">
+  <img src="https://mirasholding.com/wp-content/uploads/2025/03/cover.jpg" />
+</p>
 
 
 
