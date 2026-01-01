@@ -23,8 +23,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at+Mirath+Holding)
 
 
-![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,python,git)
-
 
 
 
