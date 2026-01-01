@@ -38,7 +38,10 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mahsasa71&theme=algolia&no-frame=true)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;Frontend+%7C+React+%7C+Next.js;Always+learning+new+things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+our+GitHub;We+are+the+Development+Team+at+Mirath+Holding)
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at+Mirath+Holding)
 
 
 ![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,python,git)
