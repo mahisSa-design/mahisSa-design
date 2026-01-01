@@ -50,9 +50,11 @@ Building modern web interfaces and learning every day.
 ## 🛠 Tech Stack
 ![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,git,python)
 
-![Zustand](https://img.shields.io/badge/Zustand-State%20Management-764ABC?style=for-the-badge)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-UI-000000?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-API-02569B?style=for-the-badge)
+![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,prisma,postgres,vercel,docker)
+
+![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,docker,vercel)
+
+
 
 
 ## 🐍 Contributions
