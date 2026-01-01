@@ -54,9 +54,6 @@ Building modern web interfaces and learning every day.
 
 
 
-## 🐍 Contributions
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
 ## 🏆 Achievements
 ![trophy](https://github-profile-trophy.vercel.app/?username=mahsasa71&theme=algolia&no-frame=true)
 
