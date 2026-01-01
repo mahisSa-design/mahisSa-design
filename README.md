@@ -13,6 +13,7 @@
  🌐 Socials :
 <h3 align="left">Connect with us:</h3>
 <p align="left">
+## 🌐 Socials : <h3 align="left">Connect with us:</h3> <p align="left">
 
 <a href="https://instagram.com/mirasdevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirasdevs" height="30" width="40" /></a>
 </p>
