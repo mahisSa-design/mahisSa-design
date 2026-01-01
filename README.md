@@ -27,8 +27,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&weight=600&color=FFFFFF&center=true&vCenter=true&width=1200&height=80&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at+Mirath+Holding" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&weight=600&color=000000&center=true&vCenter=true&width=1200&height=80&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at+Mirath+Holding" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&weight=600&color=FFFFFF&center=true&vCenter=true&width=1200&height=80&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at+Miras+Holding" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&weight=600&color=000000&center=true&vCenter=true&width=1200&height=80&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at+Miras+Holding" />
     <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&weight=600&color=000000&center=true&vCenter=true&width=1200&height=80&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at+Mirath+Holding" />
   </picture>
 </p>
