@@ -1,15 +1,9 @@
 <img width="1584" height="396" alt="Image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhlY3Y1ejB4MGptbnE4cHRxYm0yMWhtcnI3dHVjZnUzOTRxazIwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsasa71&label=Profile%20views&color=0e75b6&style=flat" alt="mahsasa71" /> </p>
 
-## 🌐 Socials :
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahsa-sahraei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahsa-sahraei" height="30" width="40" /></a>
-<a href="https://instagram.com/mahsacodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahsacodes" height="30" width="40" /></a>
-</p>
 
 
-## 📊 GitHub Stats :
+
 
 ## 💬 Daily Dev Quote
 
@@ -29,6 +23,12 @@
 ## ✨ About Us:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at+Mirath+Holding)
 
+## 🌐 Socials :
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mahsa-sahraei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahsa-sahraei" height="30" width="40" /></a>
+<a href="https://instagram.com/mahsacodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahsacodes" height="30" width="40" /></a>
+</p>
 
 ## 🛠 Tech Stack
 
